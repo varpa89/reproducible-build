@@ -1,0 +1,5 @@
+/**
+ * Hello
+ */
+public class Hello {
+}
